@@ -1,2 +1,2 @@
-# exercicios-jpa
-Exercícios de JPA 
+# exercicios-dp
+Exercícios de Spring Boot 
