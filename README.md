@@ -1,2 +1,2 @@
-# exercicios-dp
+# exercicios-sp
 Exercícios de Spring Boot 
